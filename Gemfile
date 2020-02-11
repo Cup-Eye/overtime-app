@@ -18,8 +18,8 @@ group :development, :test do
   gem 'rspec-rails', '~> 3.0'
   gem 'capybara'
   gem 'database_cleaner'
-  gem 'selenium-webdriver'
-  gem 'chromedriver-helper'
+  #gem 'selenium-webdriver'
+  #gem 'chromedriver-helper'
 end
 
 group :development do
