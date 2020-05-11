@@ -1,5 +1,5 @@
 
-FactoryGirl.define do
+FactoryBot.define do
   sequence :email do |n|
     "test#{n}@example.com"
   end

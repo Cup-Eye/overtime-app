@@ -19,7 +19,7 @@ group :development, :test do
   gem 'rspec', '~> 3.9'
   gem 'capybara'
   gem 'database_cleaner'
-  gem 'factory_girl', '~> 4.9'
+  gem 'factory_bot', '~> 4.8', '>= 4.8.2'
   #gem 'selenium-webdriver'
   #gem 'chromedriver-helper'
 end
